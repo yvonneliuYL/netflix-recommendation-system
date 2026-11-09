@@ -1,0 +1,11 @@
+pandas<3        # the notebook uses DataFrame.applymap (pandas 2.x API)
+numpy
+scikit-learn
+statsmodels
+mlxtend         # Apriori and association rules (Models A and B)
+xgboost         # Model C
+matplotlib
+seaborn
+joblib
+jinja2          # pandas Styler, used to display the recommendation tables
+# google.colab (drive.mount) is only available on Google Colab; skip that cell when running locally

@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Office lock files and archives
+~$*
+*.zip
+
+# Files written by the notebook (recommendation lists and trained model)
+top_actors.csv
+top_directors.csv
+*.pkl
